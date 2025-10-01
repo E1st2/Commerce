@@ -23,7 +23,7 @@ button{
 
 }
 
- .hero-image-wrapper img{
+ img{
     border-radius: 10px;
     box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
 }
@@ -535,4 +535,5 @@ flex-direction: column-reverse;
         flex-direction: column;
         gap: 20px;
     }
+
 }
